@@ -27,8 +27,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-🧰 Tech Stack
+# 🧰 Tech Stack
+
 Language: Python
+
 Library: Pandas (Data Wrangling)
+
 Visualization: Streamlit & Plotly
+
 Data Source: [HK Hospital Authority Open Data](https://www3.ha.org.hk/Data/HAStatistics/MajorReport)
