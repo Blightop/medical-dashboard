@@ -1,9 +1,9 @@
 # 🏥 Hong Kong Hospital Authority: Financial Dashboard
 A data science project analyzing 3 years of HK Hospital Authority income and expenditure data (2021-2024), visualized using Streamlit.
 
-<img src="https://github.com/Blightop/medical-dashboard/blob/50aca6969f42a1c550928a8cd808146500c22d04/Screenshot%202026-02-03%20161516.png" width="300" />
-<img src="https://github.com/Blightop/medical-dashboard/blob/main/Screenshot%202026-02-03%20161529.png" width="300" />
-<img src="https://github.com/Blightop/medical-dashboard/blob/main/Screenshot%202026-02-03%20161542.png" width="300" />
+<img src="https://github.com/Blightop/medical-dashboard/blob/50aca6969f42a1c550928a8cd808146500c22d04/Screenshot%202026-02-03%20161516.png" width="900" />
+<img src="https://github.com/Blightop/medical-dashboard/blob/main/Screenshot%202026-02-03%20161529.png" width="900" />
+<img src="https://github.com/Blightop/medical-dashboard/blob/main/Screenshot%202026-02-03%20161542.png" width="900" />
 
 # 📌 Project Overview
 The goal of this project is to provide a clear visualization of how public funds are allocated within the HK hospital system. This dashboard allows users to track spending trends across staff costs, drugs, and medical equipment.
